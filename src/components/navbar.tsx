@@ -26,16 +26,9 @@ function Navbar() {
               <i className="fa-solid fa-house"></i> Home
             </Button>
           </Link>
-          <Link to="/games">
-            <Button>
-              <i className="fa-solid fa-gamepad"></i> Games
-            </Button>
-          </Link>
-        </Section>
-        <Section>
           <Link to="/socials">
             <Button>
-              <i className="fa-solid fa-user"></i> Socials
+              <i className="fa-solid fa-gamepad"></i>Socials
             </Button>
           </Link>
         </Section>
