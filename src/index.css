@@ -1,0 +1,40 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind;
+
+@layer base {
+  html,
+  body {
+    @apply text-center;
+    @apply text-white;
+    @apply bg-[#171717];
+    @apply m-0;
+    @apply p-0;
+  }
+
+  p {
+    @apply text-[#bbb];
+    @apply inline-block;
+    @apply max-w-2xl;
+    @apply text-sm;
+  }
+
+  a {
+    @apply text-[#0087ff];
+    @apply text-sm;
+    @apply no-underline;
+  }
+
+  a:active {
+    @apply underline;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-bold;
+    @apply mb-1;
+  }
+}
