@@ -47,7 +47,7 @@ function Games() {
         </div>
       </div>
 	  
-	  <div className="flex  justify-center">
+	  <div className="flex flex-col gap-2 justify-center items-center">
 	  <h2>Slope Unblocked: A Thrilling Online Game</h2>
 <p><strong>Slope Unblocked</strong> is an exhilarating online game that has captivated players with its fast-paced and challenging gameplay. The objective of the game is simple: navigate a rolling ball down a steep, neon-lit slope while avoiding various obstacles. The game is known for its simplicity yet intense difficulty, making it a favorite among those seeking a quick adrenaline rush.</p>
 <p>The controls are straightforward, requiring only the use of the arrow keys to steer the ball. However, mastering the game is no easy feat. The slope is riddled with pitfalls, sharp turns, and moving obstacles that demand quick reflexes and precise movements. As the game progresses, the speed of the ball increases, adding to the challenge and excitement.</p>
