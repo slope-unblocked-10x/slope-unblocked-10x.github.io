@@ -44,5 +44,5 @@ export const metadata = [
   { path: "/", title: "Slope Unblocked" },
   { path: "games", title: "Slope Unblocked | Games" },
   { path: "socials", title: "Slope Unblocked | Socials" },
-  { path: "*", title: "404" },
+
 ];
